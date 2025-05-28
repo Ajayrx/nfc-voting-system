@@ -1,4 +1,4 @@
-# Project Ncrypt - Hardware Prototype
+# Ncrypt - Hardware Prototype || Google Solution Challenge
 
 🧠 This is a simulated hardware prototype for NFC-based voter verification using:
 - ✅ Government-signed NFC Cards
