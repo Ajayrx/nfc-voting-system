@@ -20,3 +20,8 @@
 This prototype is ready to be extended to real Raspberry Pi hardware with NFC and biometric modules.
 
 ## Still in very early phase need mentor and guidence to carry one working seems easy not not that easy.
+
+## links
+     
+### (NFC card making demo ) https://vote-smart-website.lovable.app/
+### ( Arduino code writer ) https://ncrypt-team-mango.netlify.app/
