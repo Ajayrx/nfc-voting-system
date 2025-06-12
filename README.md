@@ -5,7 +5,12 @@
 - 🔒 Fingerprint Hash Matching
 - 🚨 Fake Card Detection
 
-## Files
+## files - New things Added
+- Arduino writer code - ino file
+- voter card system 
+- to write voter card using a tkinter based gui connected to Arduino 
+
+## Files - old
 - `nfc_reader.py` – Simulates scanning NFC cards
 - `fingerprint_hash.py` – Simulates fingerprint scanning
 - `voter_verification.py` – Core logic combining both verifications
@@ -14,21 +19,4 @@
 
 This prototype is ready to be extended to real Raspberry Pi hardware with NFC and biometric modules.
 
-# 🚀 How to Run
-## ✅ Step 1: Install Dependencies
-Make sure you're inside the project root directory. Then install the required packages:
-
-   > pip install -r requirements.txt
-
-[Python 3.9+ recommended.]
-
-## ▶️ Step 2: Run the GUI
-Launch the full graphical simulation by running:
-
-   > python main/gui_app.py
-
-This will open an interactive dashboard with:
-
-- Card input & service access
-- 3D-style card interactions
-- Display of user details and service eligibility
+## Still in very early phase need mentor and guidence to carry one working seems easy not not that easy.

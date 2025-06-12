@@ -1,2 +1,6 @@
+Required libraries ===
+
 adafruit-circuitpython-pn532
 hashlib
+MFRC522
+Liquidcrystal_12c
